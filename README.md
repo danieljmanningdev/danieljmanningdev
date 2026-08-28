@@ -1,4 +1,4 @@
-# Daniel J. Manning
+# Daniel J. Manning | Full Stack Development
 
 Digital Product Designer & Engineer building secure, server-rendered products with Go, HTMX and SQLite.
 
@@ -6,17 +6,32 @@ Digital Product Designer & Engineer building secure, server-rendered products wi
 
 ## Go Web Stack
 
-- go-web-core — shared application infrastructure
-- go-web-auth — authentication and session primitives
-- go-web-security — reusable security middleware
-- go-starter-auth-app — starter application combining the stack
+- [go-web-core](https://github.com/danieljmanningdev/go-web-core) — shared application infrastructure
+- [go-web-auth](https://github.com/danieljmanningdev/go-web-auth) — authentication and session primitives
+- [go-web-security](https://github.com/danieljmanningdev/go-web-security) — reusable security middleware
+- [go-starter-auth-app](https://github.com/danieljmanningdev/go-starter-auth-app) — starter application combining the stack
+
+## About Me
+
+I build secure, accessible, server-rendered web applications with Go and HTMX, with a strong focus on product design, reusable architecture, and small well-defined packages.
+
+My work spans full-stack engineering, UI/UX design, application security, authentication, database-backed systems, and developer tooling.
 
 ## Featured Projects
 
-- danieljmanningdev-portfolio
-- go-jsonld-schema
-- gofileutils
+### [Portfolio & Client Workspace](https://github.com/danieljmanningdev/danieljmanningdev-portfolio)
 
-## Current Focus
+Full-stack Go application with authentication, clients, projects, contracts, SQLite persistence, HTMX interactions, security middleware, and automated tests.
 
-Building small, composable Go packages and production-style server-rendered applications.
+### [go-jsonld-schema](https://github.com/danieljmanningdev/go-jsonld-schema)
+
+Typed Go package for generating Schema.org JSON-LD without manually building JSON in templates.
+
+### [gofileutils](https://github.com/danieljmanningdev/gofileutils)
+
+Small file utility package for common file, line, and JSON operations with idiomatic error handling.
+
+## Contact
+
+- Website: https://danieljmanningdev.com
+- Email: daniel@danieljmanningdev.com
