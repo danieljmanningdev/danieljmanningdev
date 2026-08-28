@@ -1,16 +1,20 @@
-## Hi there 👋
+# Daniel J. Manning
 
-<!--
-**danieljmanningdev/danieljmanningdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Product Designer & Engineer building secure, server-rendered products with Go, HTMX and SQLite.
 
-Here are some ideas to get you started:
+## Go Web Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- go-web-core — shared application infrastructure
+- go-web-auth — authentication and session primitives
+- go-web-security — reusable security middleware
+- go-starter-auth-app — starter application combining the stack
+
+## Featured Projects
+
+- danieljmanningdev-portfolio
+- go-jsonld-schema
+- gofileutils
+
+## Current Focus
+
+Building small, composable Go packages and production-style server-rendered applications.
